@@ -12,7 +12,7 @@ namespace ex._3_exam
 
             double money = 0;
 
-            if(team == "Argentina")
+            if (team == "Argentina")
             {
                 if (typeSouvenir == "flags")
                 {
